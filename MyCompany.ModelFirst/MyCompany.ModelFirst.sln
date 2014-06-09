@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCompany.ModelFirst", "MyCompany.ModelFirst\MyCompany.ModelFirst.csproj", "{EA670654-F76A-48F4-92F9-7274AE2A54AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCompany.NorthwindSystem", "MyCompany.NorthwindSystem\MyCompany.NorthwindSystem.csproj", "{4E5B9784-94E5-44E7-BBC5-CC7577F070EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA670654-F76A-48F4-92F9-7274AE2A54AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA670654-F76A-48F4-92F9-7274AE2A54AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA670654-F76A-48F4-92F9-7274AE2A54AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA670654-F76A-48F4-92F9-7274AE2A54AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E5B9784-94E5-44E7-BBC5-CC7577F070EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E5B9784-94E5-44E7-BBC5-CC7577F070EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E5B9784-94E5-44E7-BBC5-CC7577F070EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E5B9784-94E5-44E7-BBC5-CC7577F070EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
